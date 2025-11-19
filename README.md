@@ -70,7 +70,6 @@ The Dataset is a CSV file from Kaggle. It includes Campaign ID, Ad ID, Reporting
 ---
 
 ## 📄 License
-This project is for learning and portfolio use.  
-You may reference or reuse the structure with proper credit.
+This project is for learning and educational purposes as part of my internship at Future Interns
 
 ---

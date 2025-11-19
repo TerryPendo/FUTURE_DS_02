@@ -26,7 +26,7 @@ This project presents an interactive **Facebook Ads Performance Dashboard** desi
 ---
 
 ## Dashboard Preview
-
+![Facebook Ads Dashboard](Fb_ads_report.png)
 
 ---
 
